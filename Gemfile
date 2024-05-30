@@ -30,7 +30,7 @@
 #
 source 'https://rubygems.org'
 
-ruby '3.2.2'
+ruby '3.2.4'
 
 gem 'rails', '>= 6.1.3.2'
 
